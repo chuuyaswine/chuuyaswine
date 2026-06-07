@@ -3,5 +3,9 @@
 ---
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=240046&center=true&vCenter=true&width=1200&size=35&lines=would+you+be+my+mankira?;" />
 
+---
 
+## Gabriely Alves
+--
+**ETEC Vasco Antonio Venchiarutti- Desenvolvimento de Sistemas**
 
