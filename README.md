@@ -1,4 +1,4 @@
-<img width="1000" height="386" alt="bsd-soukoku" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVqd2phZzVobWFtZWNyMXkxcGdzZGVudnlkODUxeWF1Y21wem9tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fqrvupe6qMln4pslsw/giphy.gif](https://tenor.com/fULmV7Ux7AG.gif)" />
+<img width="1000" height="386" alt="bsd-soukoku" src="https://tenor.com/pt-BR/view/gachiakuta-jabber-jabber-wonger-gif-4827326378100071136" />
 
 ---
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=430372&center=true&vCenter=true&width=1200&size=35&lines=would+you+be+my+mankira?;" />
